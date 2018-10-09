@@ -45,3 +45,21 @@ body{
     background: url('../video/Working-it/Snapshots/Working-it.jpg')center/cover fixed no-repeat;
   }
 }
+/* banner */
+.banner {
+  margin-left: 2rem;
+  border-left: 0.5rem solid var(--yellow);
+}
+.banner__title {
+  font-size: 3rem;
+  letter-spacing: 0.25rem;
+  margin-left: 1rem;
+  text-transform: uppercase;
+  color: var(--blue);
+}
+.banner__title-name {
+  color: var(--yellow);
+  font-size: 4rem;
+  font-style: italic;
+  text-decoration: underline;
+}
