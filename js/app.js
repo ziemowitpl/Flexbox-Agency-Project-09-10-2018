@@ -1,4 +1,6 @@
-
+$(document).ready(function () {
+    $('.preloader').fadeOut()
+})
    
     id: 0,
     name: 'john doe',
