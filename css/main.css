@@ -165,3 +165,12 @@ body{
   color: var(--yellow);
   transform: scale(1.5);
 }
+.social-icon-facebook {
+  color: #3b5998;
+}
+.social-icon-twitter {
+  color: #1dcaff;
+}
+.social-icon-instagram {
+  color: #cd486b;
+}
